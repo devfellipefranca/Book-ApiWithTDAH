@@ -1,0 +1,19 @@
+Prompt:
+“Crie um livro completo intitulado ‘APIs do Zero ao Avançado: Um Guia para Pessoas com TDAH’, escrito em português, com o objetivo de ensinar pessoas com Transtorno de Déficit de Atenção e Hiperatividade (TDAH) a aprenderem desenvolvimento de backend, especificamente a criação de APIs. O livro deve ser acessível para iniciantes absolutos, que não têm conhecimento prévio de programação, e progredir de forma estruturada até tópicos avançados. Use uma linguagem simples, amigável, motivadora e com explicações detalhadas, evitando jargões técnicos sem contexto. Considere as necessidades de pessoas com TDAH: inclua blocos curtos de texto, exemplos visuais (como trechos de código comentados), resumos no final de cada capítulo e exercícios práticos para reforçar o aprendizado.
+O livro deve ser desenvolvido usando Python (ou, alternativamente, JavaScript puro, se preferir – escolha uma das duas linguagens e justifique a escolha no início do livro). Estruture o conteúdo em capítulos que cubram:
+	1	Introdução à Programação e APIs: O que é programação, o que é uma API, por que ela é útil, e como vamos aprendê-la passo a passo.
+	2	Fundamentos Básicos: Variáveis, tipos de dados, funções e lógica básica (condicionais e loops), explicando cada conceito com exemplos do dia a dia e como eles se conectam a APIs.
+	3	Estruturas de Dados Simples: Listas, dicionários (em Python) ou arrays e objetos (em JavaScript), mostrando como organizar informações que uma API pode usar.
+	4	Primeiros Passos com APIs: Criando uma API simples que retorna dados fixos (como um ‘Hello, World’ em formato JSON), explicando cada linha de código e o motivo de usá-la.
+	5	Métodos HTTP: O que são GET, POST, PUT, DELETE, com exemplos práticos e explicações sobre como funcionam na prática.
+	6	Manipulação de Dados: Como receber dados do usuário (input) e devolver respostas dinâmicas na API, com exemplos claros.
+	7	Armazenamento Básico: Uso de arquivos simples (como JSON ou CSV) para simular um banco de dados, explicando por que isso é útil em APIs.
+	8	Validação e Segurança: Como verificar dados enviados à API e proteger contra erros ou ataques básicos, com exemplos práticos.
+	9	APIs Avançadas: Criando uma API com múltiplas rotas, conectando-a a um banco de dados leve (como SQLite em Python ou uma solução simples em JS), e lidando com erros.
+	10	Projeto Final: Um guia passo a passo para criar uma API funcional (exemplo: uma API de lista de tarefas), revisando todos os conceitos aprendidos.
+	11	Dicas para Seguir Aprendendo: Recursos adicionais e como continuar no mundo do backend.
+Para cada trecho de código apresentado:
+	•	Explique o que ele faz, linha por linha, como se estivesse conversando com um amigo curioso.
+	•	Diga por que aquele código é importante para a API (exemplo: ‘Essa linha cria uma rota para que o usuário possa acessar seus dados’).
+	•	Use exemplos práticos e relacionáveis (como uma API de receitas ou tarefas diárias).
+O tom deve ser encorajador, com frases como ‘Você consegue fazer isso!’ ou ‘Vamos dividir isso em pedaços fáceis’. Inclua pausas para reflexão (ex.: ‘Pare um segundo e teste esse código!’) e evite sobrecarregar com muitos conceitos de uma vez. O livro deve ter no mínimo 15 páginas por capítulo (estimado), com um total de pelo menos 150-200 páginas, mas sinta-se à vontade para expandir onde necessário. Salve o resultado em um formato que possa ser facilmente editado, como Markdown ou texto simples.”
